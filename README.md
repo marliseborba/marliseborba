@@ -5,10 +5,9 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlise-borba/)
 <br><br>
 
-![Marlise GitHub stats](https://github-readme-stats.vercel.app/api?username=marliseborba&theme=jolly&show_icons=true&hide=stars&bg_color=00000000)
+![Marlise GitHub stats](https://github-readme-stats-marliseborba.vercel.app/api?username=marliseborba&theme=jolly&show_icons=true&hide=stars&hide_rank=true&include_all_commits=true&bg_color=DEG,00000000,2b1544)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marliseborba&theme=jolly&bg_color=00000000&layout=compact)](https://github.com/marliseborba/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-marliseborba.vercel.app/api/top-langs/?username=marliseborba&langs_count=20&theme=jolly&bg_color=DEG,00000000,2b1544&layout=compact)](https://github.com/marliseborba/github-readme-stats)
 <br>
 
 ### Tecnologias
