@@ -18,4 +18,6 @@ Fique à vontade para conferir meu conteúdo e entrar em contato! 🤝<br/>
 ![Marlise GitHub stats](https://github-readme-stats-marliseborba.vercel.app/api?username=marliseborba&theme=jolly&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=DEG,00000000,2b1544)
 
 [![Top Langs](https://github-readme-stats-marliseborba.vercel.app/api/top-langs/?username=marliseborba&langs_count=20&theme=jolly&bg_color=DEG,00000000,2b1544&layout=compact)](https://github.com/marliseborba/github-readme-stats)
+
+[![Marlise wakatime stats](https://github-readme-stats-marliseborba.vercel.app/api/wakatime?username=marliseborba&theme=jolly&bg_color=DEG,00000000,2b1544&layout=compact)](https://github.com/marliseborba/github-readme-stats)
 <br>
