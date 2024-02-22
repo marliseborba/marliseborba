@@ -7,11 +7,10 @@ Aqui eu publico meus estudos, cursos e projetos pessoais, a fim de demonstrar me
 Estou em busca de uma oportunidade para trabalhar com C# e ASP.NET Core.<br/>
 Fique à vontade para conferir meu conteúdo e entrar em contato! 🤝<br/>
 <br/>
-<br/>
-<div style="display: inline_block">
-<a href="https://www.linkedin.com/in/marlise-borba/"> <img style="margin: 0 0 5px 0" align="center" height="30" alt="C#" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png"> marlise-borba</a>
-<img style="margin: 0px 0px 5px 20px" align="center" height="30" alt="C#" src="https://static-00.iconduck.com/assets.00/gmail-icon-509x512-ikquhn8l.png" /> borba.marlise@gmail.com
-<img style="margin: 0px 0px 5px 20px" align="center" height="30" alt="C#" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" /> marliseborba </div>
+
+<b> LinkedIn:</b> <a href="https://www.linkedin.com/in/marlise-borba/"> /marlise-borba</a>
+<br/><b>E-mail:</b> borba.marlise@gmail.com
+
 <br/>
 <br/>
 
