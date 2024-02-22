@@ -1,6 +1,3 @@
-#### Olá! 👋
-
-<br>
 Sou uma desenvolvedora com experiência em C# e ASP.Net Core.<br/>
 Também tenho conhecimento em linguagens e tecnologias como SQL, Razor Pages e Bootstrap.<br/>
 Aqui eu publico meus estudos, cursos e projetos pessoais, a fim de demonstrar meus conhecimentos.<br/>
