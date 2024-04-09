@@ -1,4 +1,4 @@
-<h3>Principais Skills</h3>
+<h3>Skills</h3>
 <div>
   <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
@@ -24,6 +24,8 @@
 
 <h3>Redes e Contato</h3>
 <b>Linkedin: </b><a href="https://www.linkedin.com/in/marlise-borba/"> /marlise-borba</a>
+<br/>
+<b>WhatsApp: </b> <a href="https://wa.me/5555991126051?text=Olá,+Marlise+Borba">55991126051</a>
 <br/>
 <b>E-mail: </b>borba.marlise@gmail.com
 
