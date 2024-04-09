@@ -33,9 +33,9 @@
 <br/>
 <br/>
 
-![Marlise GitHub stats](https://github-readme-stats.vercel.app/api?username=marliseborba&theme=panda&show_icons=true&hide_rank=true&include_all_commits=true)
+![Marlise GitHub stats](https://github-readme-stats.vercel.app/api?username=marliseborba&theme=aura&show_icons=true&hide_rank=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marliseborba&langs_count=20&theme=panda&layout=compact)](https://github.com/marliseborba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marliseborba&langs_count=20&theme=aura&layout=compact)](https://github.com/marliseborba/github-readme-stats)
 
-[![Marlise wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marliseborba&theme=panda&layout=compact&hide=objective-c,gdscript3,swig,ca65%20assembler,assembly,prolog,binary,gdscript3,other)](https://github.com/marliseborba/github-readme-stats)
+[![Marlise wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marliseborba&theme=aura&layout=compact&hide=objective-c,gdscript3,swig,ca65%20assembler,assembly,prolog,binary,gdscript3,other)](https://github.com/marliseborba/github-readme-stats)
 <br>
